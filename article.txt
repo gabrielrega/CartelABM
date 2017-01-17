@@ -1,1 +1,3 @@
-
+Usar tópicos no estilo dos artigos do Andrea (existe um artigo recente), essencialmente, limitando o problema e tentando comparar fatos estilizados que o modelo e capaz de reproduzir.
+# Tarefa Inicial:
+descrever o modelo, conforme as partes do arquivo netlogo. O artigo do Testfatsion no Handobook é um bom exemplo de descrição de modelos que posso utilizar.
