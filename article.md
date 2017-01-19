@@ -11,6 +11,7 @@
 # Model Description
 
 (picture)
+(interactive version of the model has to be online)
 
 ## Pre-Setup
 
@@ -35,6 +36,9 @@ cartels-own [leader]
 ```
 
 ## Setup
+
+After this structure is defined we start to set up the initial conditions of a model run. First we create the drivers (consumers). In the interactive version of the model, this number is user-defined. For each driver, it is assigned, semi-randomly, some of the attributes describe above, namely, their desired travel, elasticity of demand and their income. The randomness allows us to create diffentiated agents, which is a central feature of agent based models. The elasticity parameter is a strong candidate for further studies, as it can be thought of as related to the product characteristics and can be easily changed for use in other contexts.
+The same procedure is applied for the creation of the stations. The number is again user-defined in the interactive version o the model
 
 ## Market Description (as Tesfatsion below)
 
