@@ -34,10 +34,10 @@ cartels-own [leader]
 # Tesfatsion Structure
 
 Model name
-a.1. economy in the initial period: description of the "economy" The ACE Trading World is a discrete-time dynamic economy that runs during periods T = 0, 1, . . . , TMax. The economy produces two perishable infinitely-divisible goods, hash and beans.
-a.2. activity flow for hash firms (a breed) in period T with equations
-a.3. profit alocation for firm j, equations
-a.4 learning for firms and investment equations
-a.5. activity flow for beans firms (other breed)
-a.6. activity flow for consumers
-a.7. consumer price discovery
+* a.1. economy in the initial period: description of the "economy" The ACE Trading World is a discrete-time dynamic economy that runs during periods T = 0, 1, . . . , TMax. The economy produces two perishable infinitely-divisible goods, hash and beans.
+* a.2. activity flow for hash firms (a breed) in period T with equations
+* a.3. profit alocation for firm j, equations
+* a.4 learning for firms and investment equations
+* a.5. activity flow for beans firms (other breed)
+* a.6. activity flow for consumers
+* a.7. consumer price discovery
