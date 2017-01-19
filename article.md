@@ -1,7 +1,12 @@
-LEMBRETE: texto em inglês
-Usar tópicos no estilo dos artigos do Andrea (existe um artigo recente), essencialmente, limitando o problema e tentando comparar fatos estilizados que o modelo e capaz de reproduzir.
-# Tarefa Inicial:
-descrever o modelo, conforme as partes do arquivo netlogo. O artigo do Testfatsion no Handobook é um bom exemplo de descrição de modelos que posso utilizar.
+# Abstract
+(objetivo de contruir um modelo de mercado para análise de cartéis, importancia da defesa da concorrencia, usamos hash and beans como base.)
+
+# Gasoline Markets in Economic Literature
+(vancouver price wars, outros da TESE)
+
+# Facts on oligopolised markets
+(da teses tbm, parte mais teórica)
+(descrição dos fatos estilizados)
 
 # Model Description
 
@@ -31,7 +36,10 @@ cartels-own [leader]
 
 ## Setup
 
-# Tesfatsion Structure
+## Market Description (as Tesfatsion below)
+
+### Each period of the timeline
+### Tesfatsion Model Structure
 
 Model name
 * a.1. economy in the initial period: description of the "economy" The ACE Trading World is a discrete-time dynamic economy that runs during periods T = 0, 1, . . . , TMax. The economy produces two perishable infinitely-divisible goods, hash and beans.
@@ -41,3 +49,17 @@ Model name
 * a.5. activity flow for beans firms (other breed)
 * a.6. activity flow for consumers
 * a.7. consumer price discovery
+
+# Experiments
+
+Effects on prices and profits, consumer surplus?
+(change number of firms)
+(cartel on/off)
+
+# Validation
+
+(are these results realistics, comparing with the stylised facts?)
+
+# Further Research
+
+(alternative price rule, consumer learning - high price out, random one in, seller networks (more than one cartel and network mergers), generalized market (how to? change elasticity, more than one supplier, add industry, seller networks, price promotions)
